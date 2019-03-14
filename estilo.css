@@ -1,0 +1,33 @@
+
+ul {
+margin: 0;
+padding: 0;
+list-style: none;
+width: 150px;
+}
+
+li {
+	padding-top: 30px;
+}
+
+ul li a {
+   display: block;
+   text-decoration: none;
+   color: #000000;
+   background:#E0FFFF;
+   padding: 5px;
+   
+}
+
+ul li a:hover{
+text-decoration:underline;
+font-weight: bold;
+background: #ccc; }
+
+body{
+	background: #E0FFFF;
+}
+
+div {
+	background: #E0FFFF; 
+}
